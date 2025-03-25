@@ -1,13 +1,13 @@
 # ![Flow logo](logo@32.png) Flow
 
-## App Demo
-https://youtu.be/0UIFe_avIug?si=6n4xGCK-zBAXv3GJ
-
 [![Buy me a coffee](https://img.shields.io/badge/buy_me_a_coffee-sadespresso-f5ccff?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://buymeacoffee.com/sadespresso)
 [![Patreon](https://img.shields.io/badge/patreon-sadespresso-f5ccff?logo=patreon&logoColor=white&style=for-the-badge)](https://patreon.com/sadespresso)
 [![Website](https://img.shields.io/badge/Website-flow.gege.mn-f5ccff?style=for-the-badge)](https://flow.gege.mn)&nbsp;
 [![Flow's GitHub repo](https://img.shields.io/badge/GitHub-flow--mn/flow-f5ccff?logo=github&logoColor=white&style=for-the-badge)](https://github.com/flow-mn/flow)&nbsp;
 [![Join Flow Discord server](https://img.shields.io/badge/Discord-Flow-f5ccff?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/Ndh9VDeZa4)
+
+## App Demo
+https://youtu.be/0UIFe_avIug?si=6n4xGCK-zBAXv3GJ
 
 ## Preface
 
